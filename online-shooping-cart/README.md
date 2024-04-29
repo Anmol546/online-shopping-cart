@@ -1,9 +1,3 @@
-# zlickDeals
-
-zlickDeals is a full stack LAMP based shopping cart simulation built in React and PHP.
-
-### Live Demo
-Try the application live at http://zlickdeals.ziyaadcodes.com/
 
 ### Technologies Used
 
@@ -12,8 +6,6 @@ Try the application live at http://zlickdeals.ziyaadcodes.com/
   - Bootstrap 4
   - Webpack 4
   - HTML5
-  - AWS EC2
-
 ### Features
 - User can view a list of all products
 - User can view details of all products
